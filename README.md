@@ -16,15 +16,6 @@ All input data are publicly available at no cost. The analysis requires no API k
 
 ---
 
-## Quick start
-
-```bash
-git clone https://github.com/[USERNAME]/iac-2026-crop-eo.git
-cd iac-2026-crop-eo
-pip install -r requirements.txt
-jupyter lab notebooks/analysis.ipynb
-```
-
 Then **Kernel → Restart Kernel and Run All Cells**.
 
 The notebook runs end to end from the included `data/processed/panel.csv` and `data/processed/vhp_long.csv`. Re-downloading raw satellite data is **not** required to reproduce the published tables and figures.
@@ -132,8 +123,8 @@ Documented fully in §7 of the paper. In brief: yield data are national, so sub-
 If you use this code or the derived panel, please cite the paper:
 
 ```
-[Author], Satellite-Informed Climate Analysis of Asian Crop Yield Vulnerability:
-Space-Enabled Pathways for Agricultural Resilience, IAC-26-[CODE],
+Tarana Karimova, Satellite-Informed Climate Analysis of Asian Crop Yield Vulnerability:
+Space-Enabled Pathways for Agricultural Resilience, IAC-26-115287,
 77th International Astronautical Congress, Antalya, Türkiye, 2026, 5–9 October.
 ```
 
