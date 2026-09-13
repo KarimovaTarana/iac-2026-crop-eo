@@ -2,8 +2,8 @@
 
 Analysis code and derived data for the IAC 2026 paper *"Satellite-Informed Climate Analysis of Asian Crop Yield Vulnerability: Space-Enabled Pathways for Agricultural Resilience"* (IAC-26-[PAPER CODE]), presented at the 77th International Astronautical Congress, Antalya, Türkiye, 5–9 October 2026.
 
-**Author:** [Name], [Affiliation]
-**Contact:** [email]
+**Author:** Tarana Karimova
+**Contact:** kerimova.terane2004@gmail.com
 **Archived version:** [Zenodo DOI]
 
 ---
