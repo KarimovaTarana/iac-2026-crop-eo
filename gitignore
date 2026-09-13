@@ -1,0 +1,22 @@
+# CHIRPS rasters — ~3 GB, freely redistributable from source.
+# Sampled values are kept in data/processed/chirps_points.csv
+data/raw/chirps/*.tif
+*.tif
+
+# MODIS/SMAP bundles other than the results CSVs
+data/raw/appeears/*.nc
+data/raw/appeears/*-granule-list.txt
+data/raw/appeears/*-request.json
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
